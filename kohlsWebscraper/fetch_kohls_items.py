@@ -96,3 +96,6 @@ if __name__ == "__main__":
     scraper = KohlsScraper(departments)
     scraper.scrape()
     scraper.save_to_csv("kohls_products.csv")
+    
+    
+    ### test test
